@@ -1031,7 +1031,7 @@
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-8.47.0.tgz#5478fdf443ff8158f9de171c704ae45308696c7d"
   integrity sha512-P6omY1zv5MItm93kLM8s2vr1HICJH8v0dvddDhysbIuZ+vcjOHg5Zbkf1mTkcmi2JA9oBG2anOkRnW8WJTS8Og==
 
-"@getbrevo/brevo@^2.0.0-beta.4":
+"@getbrevo/brevo@^2.1.1":
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/@getbrevo/brevo/-/brevo-2.2.0.tgz#3a1a85d6f0766d4750170a37dd394b3db06c24f9"
   integrity sha512-mNCkXtgqn6jqLglAx1JzZcTj53kBZ5dK9Yd6zVuEyXAvhz68f5Ps6dSJar9HvkHH0Lfr3NrqW76xurjcoxqhIg==
