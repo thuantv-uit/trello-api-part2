@@ -8,8 +8,6 @@ import { cardModel } from '~/models/cardModel'
 import { userModel } from '~/models/userModel'
 import { pagingSkipValue } from '~/utils/algorithms'
 
-
-
 // Define Collection (Name & Schema)
 const BOARD_COLLECTION_NAME = 'boards'
 const BOARD_COLLECTION_SCHEMA = Joi.object({
